@@ -50,7 +50,7 @@ b,strong {font-weight:700;}
 #toplinks ul li a:hover{color:#fff;text-decoration:none;}
 
 /* Wood background */
-#toplinks, #content, #footer{background:none;background-color:#1a1a1a;}
+#toplinks, #content, #footer{background:none;background-color:#1bb3b3;}
 
 /* Main navigation menu */
 #nav{float:right;font-family:'Droid Sans',Verdana,Tahoma,sans-serif;text-align:center;}
